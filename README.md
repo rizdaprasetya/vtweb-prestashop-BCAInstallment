@@ -1,4 +1,4 @@
-Veritrans Prestashop Module
+Veritrans Prestashop BCA Installment Module
 ===========================
 
 Veritrans :heart: Prestashop!
@@ -7,13 +7,13 @@ Veritrans :heart: Prestashop!
 
 1. Download the plugin from this repository.
 
-2. Extract the modules, then rename the folder modules as **veritranspay** and zip this modules as **veritranspay.zip**
+2. Extract the modules, then rename the folder modules as **veritransbcainstallment** and zip this modules as **veritransbcainstallment.zip**
 
 3. Go to your Prestashop administration page and go to **"Modules"** menu.
 
-4. Click on the **"Add a new module"** and locate the **veritranspay.zip** file, then upload it.
+4. Click on the **"Add a new module"** and locate the **veritransbcainstallment.zip** file, then upload it.
 
-5. Find the **Veritrans Pay** module in the module list and install the module.
+5. Find the **Veritrans BCA Installment** module in the module list and install the module.
 
 ## MAP Configuration
 
